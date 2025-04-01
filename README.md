@@ -1,6 +1,6 @@
 <h1> SAE 202 </h1>
 
-Le but de cette SAE est de réalisé un site wordpress ou un site vitrine afin de présenter un produit innovant réalisé en classe.
+Le but de cette SAE est de réaliser un site wordpress ou un site vitrine, afin de présenter un produit innovant réalisé en classe.
 
 <h2> Arbre </h2>
 
