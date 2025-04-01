@@ -15,12 +15,3 @@ Password : 5UKj2HzQtdliFzRI
 
 https://actually-aubin-syx.zipwp.site/
 
-<h2> Accès Byet </h2>
-
-
-Sub Domain Name	: Librx
-MDP : 123456789librx
-
-![image](https://github.com/user-attachments/assets/5315a9d6-b4ec-4e81-9e95-f78eff6b2294)
-
-![image](https://github.com/user-attachments/assets/20d9a0bd-a91c-4db0-8968-332d48d21332)
